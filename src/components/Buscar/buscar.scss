@@ -1,0 +1,29 @@
+.header-search {
+    display: inline-flex;
+    overflow: hidden;
+    height: 44px;
+    border-radius: 4px;
+
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.25));
+
+    >input {
+        background-color: var(--dark-bg);
+        border: 0;
+        font-weight: 400;
+        font-style: normal;
+        line-height: 1.6px;
+        padding-left: 25px;
+
+        &::placeholder {
+            color: var(--light-purple);
+        }
+    }
+
+    >button {
+        background-color: var(--button-bg);
+        padding: 10px 23px;
+        height: 100%;
+        border: 0;
+        cursor: pointer;
+    }
+}

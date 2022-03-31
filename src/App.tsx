@@ -1,6 +1,10 @@
+import { Blog } from "./pages/Blog";
+
+import "./styles/global.scss";
+
 function App() {
   return (
-    <h1>Kiérico Souza</h1>
+    <Blog />
   );
 }
 

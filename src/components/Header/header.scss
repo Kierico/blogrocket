@@ -1,0 +1,35 @@
+Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1170px;
+
+
+    & nav {
+        padding: 0 32px;
+    }
+
+    & ul {
+        display: flex;
+        gap: 32px;
+    }
+
+    & li {
+        list-style: none;
+
+        &:first-child {
+            border-left: 2px solid var(--green);
+            padding-left: 3px;
+        }
+    }
+
+    & a {
+        text-decoration: none;
+        color: var(--light-purple);
+        font-size: 1.8rem;
+        font-weight: 400;
+        font-style: normal;
+        line-height: 2.1rem;
+    }
+}
