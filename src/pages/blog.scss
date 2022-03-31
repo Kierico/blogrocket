@@ -36,6 +36,10 @@
                 margin-bottom: 24px;
             }
 
+            & a {
+                text-decoration: none;
+            }
+
             & button {
                 display: flex;
                 align-items: center;

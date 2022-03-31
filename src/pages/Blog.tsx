@@ -13,7 +13,11 @@ export function Blog() {
                 <article>
                     <h1>Veja o guia definitivo para conquistar seus objetivos como DEV em 2022</h1>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error assumenda, repudiandae delectus quaerat laudantium deleniti saepe distinctio provident architecto perferendis corrupti temporibus dolorum doloribus.</p>
-                    <button>Veja mais<img src={arrowRightImg} alt="Imagem veja mais" /></button>
+                    <a href="./">
+                        <button>Veja mais
+                            <img src={arrowRightImg} alt="Imagem veja mais" />
+                        </button>
+                    </a>
                 </article>
                 <figure>
                     <img src={featuredImg} alt="Imagem featured do banner" />
