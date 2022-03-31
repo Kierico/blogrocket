@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Kierico/blogrocket/static/css/main.094f790e.css",
-    "main.js": "/Kierico/blogrocket/static/js/main.71b5752e.js",
-    "static/media/featured-image.png": "/Kierico/blogrocket/static/media/featured-image.403b39dabcc7b1c7e1d1.png",
-    "static/media/logo.svg": "/Kierico/blogrocket/static/media/logo.23041fc79acc6d809109f509f4274af0.svg",
-    "index.html": "/Kierico/blogrocket/index.html",
-    "static/media/search.svg": "/Kierico/blogrocket/static/media/search.90f2b6acc3ee2774c1164b379482dfcc.svg",
-    "static/media/arrow-right.svg": "/Kierico/blogrocket/static/media/arrow-right.af07ac20ce832d2a35132b9daa7b353c.svg",
-    "main.094f790e.css.map": "/Kierico/blogrocket/static/css/main.094f790e.css.map",
-    "main.71b5752e.js.map": "/Kierico/blogrocket/static/js/main.71b5752e.js.map"
+    "main.css": "/blogrocket/static/css/main.094f790e.css",
+    "main.js": "/blogrocket/static/js/main.abcad1a7.js",
+    "static/media/featured-image.png": "/blogrocket/static/media/featured-image.403b39dabcc7b1c7e1d1.png",
+    "static/media/logo.svg": "/blogrocket/static/media/logo.23041fc79acc6d809109f509f4274af0.svg",
+    "index.html": "/blogrocket/index.html",
+    "static/media/search.svg": "/blogrocket/static/media/search.90f2b6acc3ee2774c1164b379482dfcc.svg",
+    "static/media/arrow-right.svg": "/blogrocket/static/media/arrow-right.af07ac20ce832d2a35132b9daa7b353c.svg",
+    "main.094f790e.css.map": "/blogrocket/static/css/main.094f790e.css.map",
+    "main.abcad1a7.js.map": "/blogrocket/static/js/main.abcad1a7.js.map"
   },
   "entrypoints": [
     "static/css/main.094f790e.css",
-    "static/js/main.71b5752e.js"
+    "static/js/main.abcad1a7.js"
   ]
 }
