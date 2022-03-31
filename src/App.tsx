@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1>Kiérico</h1>
+    <h1>Kiérico Souza</h1>
   );
 }
 
