@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/blogrocket/static/css/main.1d5eba74.css",
-    "main.js": "/blogrocket/static/js/main.7d8a610f.js",
+    "main.css": "/blogrocket/static/css/main.094f790e.css",
+    "main.js": "/blogrocket/static/js/main.f2de1507.js",
+    "static/media/featured-image.png": "/blogrocket/static/media/featured-image.403b39dabcc7b1c7e1d1.png",
     "static/media/logo.svg": "/blogrocket/static/media/logo.23041fc79acc6d809109f509f4274af0.svg",
-    "static/media/search.svg": "/blogrocket/static/media/search.90f2b6acc3ee2774c1164b379482dfcc.svg",
     "index.html": "/blogrocket/index.html",
-    "main.1d5eba74.css.map": "/blogrocket/static/css/main.1d5eba74.css.map",
-    "main.7d8a610f.js.map": "/blogrocket/static/js/main.7d8a610f.js.map"
+    "static/media/search.svg": "/blogrocket/static/media/search.90f2b6acc3ee2774c1164b379482dfcc.svg",
+    "static/media/arrow-right.svg": "/blogrocket/static/media/arrow-right.af07ac20ce832d2a35132b9daa7b353c.svg",
+    "main.094f790e.css.map": "/blogrocket/static/css/main.094f790e.css.map",
+    "main.f2de1507.js.map": "/blogrocket/static/js/main.f2de1507.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d5eba74.css",
-    "static/js/main.7d8a610f.js"
+    "static/css/main.094f790e.css",
+    "static/js/main.f2de1507.js"
   ]
 }
