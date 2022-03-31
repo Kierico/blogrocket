@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/blogrocket/static/js/main.4eb0c0fc.js",
+    "main.js": "/blogrocket/static/js/main.dde8de82.js",
     "index.html": "/blogrocket/index.html",
-    "main.4eb0c0fc.js.map": "/blogrocket/static/js/main.4eb0c0fc.js.map"
+    "main.dde8de82.js.map": "/blogrocket/static/js/main.dde8de82.js.map"
   },
   "entrypoints": [
-    "static/js/main.4eb0c0fc.js"
+    "static/js/main.dde8de82.js"
   ]
 }
