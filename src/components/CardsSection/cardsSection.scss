@@ -1,0 +1,14 @@
+.cards-section {
+    display: flex;
+    justify-content: center;
+
+    .cards-container {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        max-width: 1170px;
+        gap: 30px;
+        margin-top: 64px;
+        margin-bottom: 67.5px;
+    }
+}
